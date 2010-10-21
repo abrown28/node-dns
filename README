@@ -1,3 +1,8 @@
 Someday this will be a dns implementation written in node.js
 
 
+Hoped for Features:
+- Authoritative server
+- Redis database
+- plugin scripts for handling load balancing
+
